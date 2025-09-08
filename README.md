@@ -5,7 +5,7 @@
 
 ## Introdução
 
-Bem-vindo(a) à disciplina de **Otimização do Processo Decisório (G04H4)**. Aqui estudaremos a formalização matemática de problemas de decisão e os principais algoritmos para encontrar soluções ótimas sob restrições. Vamos do básico de **modelagem e Programação Linear (PL)** ao **método Simplex**, passando por **problemas clássicos de otimização combinatória** e **fluxo em redes**. A proposta é unir fundamentação teórica e prática computacional em laboratório, com resolução algorítmica, interpretação geométrica e implementação de rotinas de apoio.
+Bem-vindo(a) à disciplina de **Otimização do Processo Decisório (G04H4)**. Aqui estudaremos a formalização matemática de problemas de decisão e os principais algoritmos para encontrar soluções ótimas sob restrições. Vamos do básico de **modelagem e Programação Linear (PL)** ao **método Simplex**, passando por **problemas clássicos de otimização combinatória** e **fluxo em redes**. A proposta é unir fundamentação teórica e prática computacional em laboratório, com resolução algorítmica, interpretação geométrica e implementação de rotinas de apoio
 
 ## Conteúdo Programático
 
